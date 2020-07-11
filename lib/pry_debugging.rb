@@ -3,4 +3,4 @@ def plus_two(num)
   binding.pry 
 end
 
- pry(#<RSpec::ExampleGroups::PlusTwo>)> num + 2
+ 
